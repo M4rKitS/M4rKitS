@@ -6,7 +6,7 @@
 
 <br>
 
-> Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress toward my ultimate goal in this wonderful world as a full-stack developer
+- Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress toward my ultimate goal in this wonderful world as a full-stack developer
 
 ## 👋 About Me
 
