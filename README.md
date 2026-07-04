@@ -20,27 +20,6 @@
 
 <br>
 
-## 🧭 My Roadmap to Full Stack Developer
-
-<div align="center">
-
-<table>
-<tr><td>
-
-**Foundations**
-- [x] Git & GitHub *(in progress)*
-- [x] Python — Basics
-- [ ] Python — Advanced *(in progress)*
-- [ ] SQL
-
-**Frontend**
-- [ ] HTML & CSS
-- [ ] JavaScript
-- [ ] ReactJS
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Astro
-
 </td><td>
 
 **Backend & Data**
