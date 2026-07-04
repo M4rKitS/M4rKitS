@@ -6,6 +6,8 @@
 
 <br>
 
+> Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress toward my ultimate goal in this wonderful world as a full-stack developer
+
 ## 👋 About Me
 
 - 🇪🇸 Originally from Spain, currently living in **Finland** since October 2025
