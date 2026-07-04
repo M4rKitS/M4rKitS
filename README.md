@@ -8,8 +8,8 @@
 
 ## 👋 About Me
 
-- 🇪🇸 Originally from Spain, currently living in **Finland** since October 2025
-- 🎓 Full Stack Developer **student** at **Conquer Blocks** (ConquerX)
+- 🇪🇸 Originally from Spain, currently living in **Finland**
+- 🎓 Full Stack Developer **student** at [**Conquer Blocks**](https://github.com/ConquerBlocks) 
 - 🔭 Currently working through the **Python (Advanced)** and **Git & GitHub** modules
 - 🎯 **Goal:** become a Full Stack Developer within the next **6–12 months** and start building real-world projects along the way
 - 🌱 Learning in public — this profile will evolve as I do
