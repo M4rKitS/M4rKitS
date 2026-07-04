@@ -20,29 +20,6 @@
 
 <br>
 
-</td><td>
-
-**Backend & Data**
-- [ ] Django
-- [ ] Node.js
-- [ ] Java
-- [ ] Rust
-- [ ] Go
-
-**Extra / Specializations**
-- [ ] SEO
-- [ ] WordPress
-- [ ] Streamlit
-- [ ] AI · Google Antigravity
-- [ ] Automations & AI Agents
-
-</td></tr>
-</table>
-
-</div>
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
