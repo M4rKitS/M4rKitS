@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-- 🇪🇸 Originally from Spain, currently living in **Finland**
+- 🇪🇸 Originally from Spain, currently living in **Finland** since October 2025
 - 🎓 Full Stack Developer **student** at [**Conquer Blocks**](https://github.com/ConquerBlocks) 
 - 🔭 Currently working through the **Python (Advanced)** and **Git & GitHub** modules
 - 🎯 **Goal:** become a Full Stack Developer within the next **6–12 months** and start building real-world projects along the way
@@ -21,6 +21,8 @@
 <br>
 
 ## 🧭 My Roadmap to Full Stack Developer
+
+<div align="center">
 
 <table>
 <tr><td>
@@ -57,6 +59,8 @@
 
 </td></tr>
 </table>
+
+</div>
 
 <br>
 
