@@ -6,13 +6,10 @@
 
 <br>
 
-Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress toward my ultimate goal in this wonderful world as a full-stack developer
-
-
 ## 👋 About Me
 
 - 🇪🇸 Originally from Spain, currently living in **Finland** since October 2025
-- 🎓 Full Stack Developer **student** at [**Conquer Blocks**](https://github.com/ConquerBlocks) 
+- 🎓 Full Stack Developer **student** at **Conquer Blocks** (ConquerX)
 - 🔭 Currently working through the **Python (Advanced)** and **Git & GitHub** modules
 - 🎯 **Goal:** become a Full Stack Developer within the next **6–12 months** and start building real-world projects along the way
 - 🌱 Learning in public — this profile will evolve as I do
@@ -20,6 +17,50 @@ Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress towa
 - 📫 Reach me at **rodriguezmarcos.fi@gmail.com**
 
 > *"I'm not there yet, but I'm not where I started either."*
+
+<br>
+
+## 🧭 My Roadmap to Full Stack Developer
+
+<div align="center">
+
+<table>
+<tr><td>
+
+**Foundations**
+- [x] Git & GitHub *(in progress)*
+- [x] Python — Basics
+- [ ] Python — Advanced *(in progress)*
+- [ ] SQL
+
+**Frontend**
+- [ ] HTML & CSS
+- [ ] JavaScript
+- [ ] ReactJS
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Astro
+
+</td><td>
+
+**Backend & Data**
+- [ ] Django
+- [ ] Node.js
+- [ ] Java
+- [ ] Rust
+- [ ] Go
+
+**Extra / Specializations**
+- [ ] SEO
+- [ ] WordPress
+- [ ] Streamlit
+- [ ] AI · Google Antigravity
+- [ ] Automations & AI Agents
+
+</td></tr>
+</table>
+
+</div>
 
 <br>
 
