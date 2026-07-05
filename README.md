@@ -76,12 +76,10 @@ Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress towa
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mrodriguezhdz/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:rodriguezmarcos.fi@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-FF7A00?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Location-Finland%20%F0%9F%87%AB%F0%9F%87%AE-1a1a1a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
 
