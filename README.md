@@ -127,4 +127,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,100:FF7A00&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,100:FF7A00&height=100&section=footer" width="100%" />
