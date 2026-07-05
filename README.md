@@ -80,6 +80,7 @@ Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress towa
 </a>
 <a href="mailto:rodriguezmarcos.fi@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
