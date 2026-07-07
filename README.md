@@ -31,7 +31,7 @@ Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress towa
 <tr><td>
 
 **Foundations**
-- [x] Git & GitHub *(in progress)*
+- [x] Git & GitHub
 - [x] Python — Basics
 - [ ] Python — Advanced *(in progress)*
 - [ ] SQL
