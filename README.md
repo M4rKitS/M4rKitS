@@ -92,7 +92,8 @@ Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress towa
 | Certificate | Status |
 |---|---|
 | Python | ✅ Completed |
-| Git & GitHub | 🔄 In progress |
+| Git & GitHub | ✅ Completed |
+| Python Advanced | 🔄 In progress |
 
 </div>
 
