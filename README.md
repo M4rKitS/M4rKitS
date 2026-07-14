@@ -105,12 +105,10 @@ Hi! I'm Marcos Rodriguez, and here I'll be sharing my projects and progress towa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=M4rKitS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rKitS&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7A00&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats-1d648ik19-m4rkits-projects.vercel.app/api?username=M4rKitS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats-1d648ik19-m4rkits-projects.vercel.app/api/top-langs/?username=M4rKitS&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7A00&text_color=c9d1d9" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4rKitS&theme=dark&hide_border=true&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=M4rKitS&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
