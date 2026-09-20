@@ -81,8 +81,8 @@ I combine my formal training with **AI-assisted development tools** — mainly *
 | Project | Description | Stack |
 |---|---|---|
 | **[M4rkcal](https://github.com/M4rKitS/M4rKcal)** | Native iOS calorie & protein tracker with Apple Watch integration | SwiftUI · SwiftData · HealthKit |
-| **[M4rKitS.dev](https://m4rkits.dev)** | My personal freelance brand website | Cloudflare Pages · JS |
-| **[TBH Strategy](https://www.tbhstrategy.com)** | Client website for a social media consultancy in Ireland | Cloudflare Workers · Google Analytics |
+| **[M4rKitS.dev](https://m4rkits.dev)** | My personal freelance brand website | HTML · CSS · JS · Cloudflare Pages · JS · EmailJS · Cloudfare Analytics |
+| **[TBH Strategy](https://www.tbhstrategy.com)** | Client website for a social media consultancy in Ireland | HTML · CSS · JS · Cloudflare Pages · JS · EmailJS · Cloudfare Analytics · Google Analytics |
 
 </div>
 
