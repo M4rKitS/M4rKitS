@@ -41,7 +41,7 @@ I combine my formal training with **AI-assisted development tools** — mainly *
 - [x] Git & GitHub
 - [x] Python — Basics
 - [ ] Python — Advanced *(in progress)*
-- [ ] SQL
+- [x] SQL
 
 **Frontend**
 - [ ] HTML & CSS
@@ -94,13 +94,13 @@ I combine my formal training with **AI-assisted development tools** — mainly *
 
 **Currently learning**
 
-<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github,mysql&theme=dark" />
 
 <br><br>
 
 **Coming up on the roadmap**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,astro,nodejs,django,java,rust,go,mysql,wordpress&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,astro,nodejs,django,java,rust,go,wordpress&theme=dark" />
 
 </div>
 
@@ -114,6 +114,7 @@ I combine my formal training with **AI-assisted development tools** — mainly *
 |---|---|
 | Python | ✅ Completed |
 | Git & GitHub | ✅ Completed |
+| SQL | ✅ Completed |
 | Python Advanced | 🔄 In progress |
 
 </div>
