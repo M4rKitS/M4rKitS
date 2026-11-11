@@ -12,7 +12,7 @@ I learn by building. Alongside the course I run **[m4rkits.dev](https://m4rkits.
 
 <div align="center">
 
-<a href="https://m4rkits.dev/en/"><img src="./stack.png" alt="Python, JavaScript, HTML5, CSS, SQL, Git, GitHub, Linux and Claude Code" width="100%" /></a>
+<a href="https://m4rkits.dev/en/"><img src="./stack.png" alt="Python, JavaScript, HTML5, CSS, SQL, Git, GitHub, Linux, Claude Code and n8n" width="100%" /></a>
 
 </div>
 
@@ -37,7 +37,7 @@ I work with AI agents to speed up development and reduce the operational load, a
 - **A human in the loop.** I define the goal, an agent implements it, and I decide when we move to the next step.
 - **Precise specifications.** I write the prompt with a conversational assistant before launching the coding agent, and I keep strategy and code prompts in separate chats.
 - **Review and validation.** I check each result with screenshots and tests, iterate over several rounds, and verify whether the agent edited a file or regenerated it from scratch, so earlier fixes are not lost.
-- **Tools.** I started with Google Antigravity and now I work with Claude Code. I prototype interfaces with Google Stitch, connected to the agent through MCP (Model Context Protocol, the standard that lets an agent use external tools).
+- **Tools.** I started with Google Antigravity and now I work with Claude Code. I prototype interfaces with Google Stitch, connected to the agent through MCP (Model Context Protocol, the standard that lets an agent use external tools). I also know n8n, the automation platform that links apps and services into workflows.
 - **Limits for the agent.** API keys stay out of the code, I confirm terminal commands before they run, and agents never touch real production data.
 - **Version control from day one.** Every project goes to Git and GitHub.
 
@@ -93,7 +93,7 @@ Trabajo con agentes de IA para acelerar el desarrollo y reducir la carga operati
 - **Un humano en el circuito.** Yo defino el objetivo, un agente lo implementa y yo decido cuándo se pasa al siguiente paso.
 - **Especificaciones precisas.** Redacto el prompt con un asistente conversacional antes de lanzar el agente de código, y separo la estrategia y los prompts de código en chats distintos.
 - **Revisión y validación.** Compruebo cada resultado con capturas y pruebas, itero en varias rondas y verifico si el agente editó un archivo o lo regeneró desde cero, para no perder correcciones previas.
-- **Herramientas.** Empecé con Google Antigravity y ahora trabajo con Claude Code. Prototipo interfaces con Google Stitch conectado al agente mediante MCP (Model Context Protocol, el estándar que permite a un agente usar herramientas externas).
+- **Herramientas.** Empecé con Google Antigravity y ahora trabajo con Claude Code. Prototipo interfaces con Google Stitch conectado al agente mediante MCP (Model Context Protocol, el estándar que permite a un agente usar herramientas externas). También conozco n8n, la plataforma de automatización que une aplicaciones y servicios en flujos de trabajo.
 - **Límites para el agente.** Las claves de API quedan fuera del código, confirmo los comandos de terminal antes de que se ejecuten y los agentes nunca tocan datos reales de producción.
 - **Control de versiones desde el primer día.** Cada proyecto va a Git y GitHub.
 
