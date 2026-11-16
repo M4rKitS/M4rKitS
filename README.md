@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://m4rkits.dev/en/"><img src="./banner.png" alt="Marcos Rodríguez, software developer in training. Full Stack Master at Conquer Blocks, Vantaa, Finland" width="100%" /></a>
+<a href="https://m4rkits.dev/en/"><img src="./banner.png" alt="Marcos Rodríguez, Full Stack Developer. Studying the Full Stack Master at Conquer Blocks, Vantaa, Finland" width="100%" /></a>
 
 </div>
 
